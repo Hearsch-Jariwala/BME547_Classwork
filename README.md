@@ -16,3 +16,5 @@ Here are the specifications for my database
  - Zip
 
 
+### Info files
+HDL, LDL
