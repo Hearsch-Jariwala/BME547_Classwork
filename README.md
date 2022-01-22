@@ -10,10 +10,10 @@ Here are the specifications for my database
 * Patient ID
 * Patient Age
 * Address
- - Street
- - City
- - State
- - Zip
+  - Street
+  - City
+  - State
+  - Zip
 
 
 ### Info files
