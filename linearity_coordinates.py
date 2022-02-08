@@ -1,3 +1,4 @@
+# linearity_coordinates.py
 def calculate_yval(tuple1, tuple2, x):
     slope = calculate_slope(tuple1, tuple2)
     intercept = calculate_intercept(tuple1, slope)
