@@ -1,6 +1,6 @@
-# test_linear_coordinates.py
-
+# test_linearity_coordinates.py
 import pytest
+
 
 @pytest.mark.parametrize("tuple1, tuple2, expected", [
     [(4, 5), (2, 3), 1],
